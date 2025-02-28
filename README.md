@@ -1,6 +1,6 @@
 - Hey, I’m Karen.
-- currently learning C++, C# and Python.
+- Interested in low level programming.
+- just a cat.
 - How to reach me:
 -   Email:
 -   Telegram:
-- Fun fact: I'm just a cat.
