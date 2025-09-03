@@ -1,6 +1,3 @@
-- Hey, I’m Karen.
-- Interested in low level programming.
-- just a cat.
-- How to reach me:
--   Email:
--   Telegram:
+- Just a cat.
+- Interested in low level programming, code in C, C++, Assembly.
+- Email: itsSatiKari@gmail.com
